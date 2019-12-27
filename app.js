@@ -7,6 +7,8 @@ let cpu = os.cpus();
 let sistema = os.platform();
 let usuario = os.hostname();
 
+console.log(mi.suscriptores);
+
 // console.log(cpu);
 // console.log(sistema);
 // console.log(usuario);
