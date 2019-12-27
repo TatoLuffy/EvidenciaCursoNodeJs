@@ -10,7 +10,7 @@ let usuario = os.hostname();
 // Usar una función de mito.js
 //mi.saludar();
 
-console.log(mi.subs);
+mi.saludar();
 
 // console.log(cpu);
 // console.log(sistema);
