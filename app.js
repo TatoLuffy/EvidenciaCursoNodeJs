@@ -8,7 +8,9 @@ let sistema = os.platform();
 let usuario = os.hostname();
 
 // Usar una función de mito.js
-mi.saludar();
+//mi.saludar();
+
+console.log(mi.subs);
 
 // console.log(cpu);
 // console.log(sistema);
