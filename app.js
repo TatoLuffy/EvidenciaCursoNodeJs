@@ -3,6 +3,9 @@ const fs = require('fs');
 
 const mi = require('./mito.js');
 
+// Es un arreglo
+console.log(module);
+
 let cpu = os.cpus();
 let sistema = os.platform();
 let usuario = os.hostname();
