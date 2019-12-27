@@ -9,7 +9,8 @@ let usuario = os.hostname();
 // console.log(sistema);
 // console.log(usuario);
 
-fs.appendFile('miarchivoprueba.txt','Información del cpu: ' + JSON.stringify(cpu), function(error){
+let cpu_string = JSON.stringify(cpu);
+fs.appendFile('miarchivoprueba.txt',`Información del cpu: ${cpu_string} `, function(error){
     if (error){
         console.log('Error al crear archivo de prueba');
     }
