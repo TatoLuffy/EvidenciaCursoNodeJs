@@ -15,7 +15,13 @@ let data = fs.readFileSync('data.txt', 'utf-8');
 console.log(data);
 console.log("Finalizado");
 
+/*
 fs.rename('data.txt', 'data_renombrado.txt', (error) => {
     if(error) throw error;
     console.log('Se ha renombrado!!');
+});
+*/
+
+fs.appendFile('data.txt', 'Gracias por suscribirte', (error) =>{
+    if (error) console.log(`Error: ${error}`)
 });
