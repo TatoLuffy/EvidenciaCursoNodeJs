@@ -17,7 +17,9 @@ Parte 8. npm. Lanzar los siguientes comandos:
 
 Parte 9. lodash y yargs.
   - Recibir un parámetro al lanzar el comando de "node app.js" dentro de la carpeta lodash_yargs.
-        "node app.js usuario DaniCode"
+        "node app.js usuario DaniCode"ç
+  - Instalar yargs: "npm i yargs --save"
+  
  
  
 
