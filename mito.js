@@ -14,8 +14,13 @@ module.exports.subs = suscriptores;
 
 module.exports = {
     subs : suscriptores,
-    saludar : function() {
+    saludar: () => {
         console.log('Hola Coder');
-    }
-
+    },
+    sumar: (a,b) => {
+        return a + b;
+    },
+    sumar2: (a,b)=> a + b,
+    mostrar1: (a)=> a + 10,
+    mostrar2: a  => a + 10
 }
