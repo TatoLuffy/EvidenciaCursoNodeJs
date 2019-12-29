@@ -15,4 +15,9 @@ Parte 8. npm. Lanzar los siguientes comandos:
   - npm i lodash --save (Añadir al package.json las dependencias en package.json)
   - npm install (Instalar todo lo necesario que esta definido en package.json)
 
+Parte 9. lodash y yargs.
+  - Recibir un parámetro al lanzar el comando de "node app.js" dentro de la carpeta lodash_yargs.
+        "node app.js usuario DaniCode"
+ 
+ 
 
