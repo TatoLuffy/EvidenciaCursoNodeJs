@@ -24,8 +24,16 @@ Parte 9. lodash y yargs.
 Parte 10. Inspector debugging.
   -Requiere una versión de node>8
   - Instalar la dependencia de nodemon con el objetivo de usar el debug de forma automático sin ponerlo tantas veces en el command:
-      npm install i -g nodemon
-      
+      npm install -g nodemon
+Parte 11. Chrome Web Tools
+  - Se requiere el navegador web Chrome.
+  - El código que queramos debugear se le debe añadir la siguiente sentencia: "debugger;"
+  - Ir al navegador chrome y ir a la consola de Chrome Web Tools para node. Allí se pueden realizar diferencias operaciones de debug.
+  - También podemos tener el nodemon para que te ejecute automáticamente las aplicaciones de node y sin usar cada vez que hay un cambio el comando "nodemon app.js" por ejemplo.
+  - Debugear con nodemon ejecutando el comando: "nodemon --inspect-brk app.js
+  
+  
+
   
  
  
