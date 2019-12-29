@@ -1,11 +1,14 @@
 const _ = require("lodash");
+const argv = require('yargs').argv;
 
+/*
 let x = { "nombre": "Dan"}
 let y = { "apodo": "Birto"}
 let z = [
     { nombre: "Dan", apellido: "General Bonaparte"},
     { nombre: "Birto", apellido: "De Los Angeles", edad: 22}
 ]
+*/
 
 /*
 // Sirve para concatenar objetos de tipo json. Sin usar stringify json.parse.
@@ -20,6 +23,7 @@ let resultado = _.find(z, {nombre:"Birto"});
 console.log(resultado);
 */
 
+/*
 //Valor de entrada al usuario, input tradicional
 let comando = process.argv;
 console.log(comando);
@@ -40,3 +44,23 @@ if (comando2 === 'usuario'){
         console.log('Usuario no valido');
     }
 }
+*/
+
+//YARGS
+//console.log(argv);
+//console.log(argv.argvs); 
+
+if (argv.usuario === "DaniCode"){
+    let x = { "nombre": "Dan"}
+    let y = { "apodo": "Birto"}
+    let z = [
+        { nombre: "Dan", apellido: "General Bonaparte"},
+        { nombre: "Birto", apellido: "De Los Angeles", edad: 22}
+    ]
+    let resultado = _.find(z, {nombre:"Birto"});
+    console.log(resultado);
+} else {
+    console.log('Usuario no valido');
+}
+
+
