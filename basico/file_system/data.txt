@@ -1,1 +1,0 @@
-Ahora mismo estan leyendo este archivo con el module "fs" que viene por defecto en esta versión de node
