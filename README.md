@@ -31,8 +31,8 @@ Parte 11. Chrome Web Tools
   - Ir al navegador chrome y ir a la consola de Chrome Web Tools para node. Allí se pueden realizar diferencias operaciones de debug.
   - También podemos tener el nodemon para que te ejecute automáticamente las aplicaciones de node y sin usar cada vez que hay un cambio el comando "nodemon app.js" por ejemplo.
   - Debugear con nodemon ejecutando el comando: "nodemon --inspect-brk app.js
-  
-  
+Parte 12. Http request
+  - Prerequisito instalar dependencia de request para realizar peticiones http por ejemplo: npm i request --save
 
   
  
