@@ -14,7 +14,7 @@ console.log("Iniciado");
 /*
 let data = fs.readFileSync('data.txt', 'utf-8');
 console.log(data);
-console.log("Finalizado");
+
 */
 
 /*
@@ -37,10 +37,17 @@ fs.unlink('data2.txt', (error) => {
 */
 
 //fs.createReadStream('data.txt').pipe(fs.createWriteStream('data3.txt'));
-
-fs.readdir('./../../', (error, files) => {
+/*
+fs.readdir('./../../basico/file_system', (error, files) => {
     if (error) throw error;
     files.forEach(file => {
         console.log(file);
     })
 });
+*/
+
+fs.readdirSync('./../../basico/file_system').forEach(file => {
+    console.log(file);
+});
+
+console.log("Finalizado");
