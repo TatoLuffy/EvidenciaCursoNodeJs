@@ -30,6 +30,8 @@ Parte 11. Chrome Web Tools
   - El código que queramos debugear se le debe añadir la siguiente sentencia: "debugger;"
   - Ir al navegador chrome y ir a la consola de Chrome Web Tools para node. Allí se pueden realizar diferencias operaciones de debug.
   - También podemos tener el nodemon para que te ejecute automáticamente las aplicaciones de node y sin usar cada vez que hay un cambio el comando "nodemon app.js" por ejemplo.
+  - Debugear con nodemon ejecutando el comando: "nodemon --inspect-brk app.js
+  
   
 
   
