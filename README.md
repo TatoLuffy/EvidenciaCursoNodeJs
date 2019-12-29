@@ -19,6 +19,8 @@ Parte 9. lodash y yargs.
   - Recibir un parámetro al lanzar el comando de "node app.js" dentro de la carpeta lodash_yargs.
         "node app.js usuario DaniCode"
   - Instalar yargs: "npm i yargs --save"
+  - Se puede usar yargs para procesar los datos de entrada por consola, mejorando el método tradicional por process. Se puede usar el comando: /basico/lodash_yargs/ node app.js --usuario=DaniCode
+  
   
  
  
