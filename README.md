@@ -23,6 +23,9 @@ Parte 9. lodash y yargs.
   
 Parte 10. Inspector debugging.
   -Requiere una versión de node>8
+  - Instalar la dependencia de nodemon con el objetivo de usar el debug de forma automático sin ponerlo tantas veces en el command:
+      npm install i -g nodemon
+      
   
  
  
