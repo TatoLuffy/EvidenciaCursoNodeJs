@@ -22,6 +22,7 @@ fs.rename('data.txt', 'data_renombrado.txt', (error) => {
 });
 */
 
+/*
 fs.appendFile('data.txt', '\n Gracias por suscribirte', (error) =>{
     if (error) console.log(`Error: ${error}`)
 });
@@ -30,3 +31,7 @@ fs.unlink('data2.txt', (error) => {
     if (error) throw Error;
     console.log('Archivo eliminado');
 })
+
+*/
+
+fs.createReadStream('data.txt').pipe(fs.createWriteStream('data3.txt'));
