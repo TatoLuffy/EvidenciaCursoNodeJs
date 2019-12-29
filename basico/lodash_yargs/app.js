@@ -36,5 +36,7 @@ if (comando2 === 'usuario'){
         ]
         let resultado = _.find(z, {nombre:"Birto"});
         console.log(resultado);
+    } else {
+        console.log('Usuario no valido');
     }
 }
