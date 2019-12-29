@@ -11,9 +11,11 @@ console.log("Iniciado");
 } );
 */
 
+/*
 let data = fs.readFileSync('data.txt', 'utf-8');
 console.log(data);
 console.log("Finalizado");
+*/
 
 /*
 fs.rename('data.txt', 'data_renombrado.txt', (error) => {
@@ -34,4 +36,11 @@ fs.unlink('data2.txt', (error) => {
 
 */
 
-fs.createReadStream('data.txt').pipe(fs.createWriteStream('data3.txt'));
+//fs.createReadStream('data.txt').pipe(fs.createWriteStream('data3.txt'));
+
+fs.readdir('./../../', (error, files) => {
+    if (error) throw error;
+    files.forEach(file => {
+        console.log(file);
+    })
+});
