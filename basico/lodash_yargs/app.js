@@ -7,7 +7,10 @@ let z = [
     { nombre: "Birto", apellido: "De Los Angeles"}
 ]
 
+/*
 // Sirve para concatenar objetos de tipo json. Sin usar stringify json.parse.
 let resultado = _.assign(x,y,z);
-
 console.log(resultado);
+*/
+
+_.times(3, ()=> console.log("Repetición for"));
