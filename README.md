@@ -21,6 +21,8 @@ Parte 9. lodash y yargs.
   - Instalar yargs: "npm i yargs --save"
   - Se puede usar yargs para procesar los datos de entrada por consola, mejorando el método tradicional por process. Se puede usar el comando: /basico/lodash_yargs/ node app.js --usuario=DaniCode
   
+Parte 10. Inspector debugging.
+  -Requiere una versión de node>8
   
  
  
