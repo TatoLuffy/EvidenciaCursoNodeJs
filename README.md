@@ -35,8 +35,10 @@ Parte 11. Chrome Web Tools
   
 Parte 12. Http request
   - Prerequisito instalar dependencia de request para realizar peticiones http por ejemplo: npm i request --save
+  - La api de google ya es de pago y he pedido el acceso para poder usar la capa gratuita.
 
-  
- 
+Parte 13. HTTPS API github
+  - Prerequisito instalar dependencia de https mediante el comando: npm i https --save
+  - 
  
 
