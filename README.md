@@ -76,5 +76,6 @@ Parte 20. Mongoose
   - Este programa sirve para gestionar la base de datos no relacional mongodb. Ej. Como en java la herramienta de orm Hibernate.
   - Prerequisito instalar mongoose: npm install mongoose --save y npm install serve-favicon --save
   - El mongodb debe estar ejecutando mediante el comando: mongodb.exe --dbpath C:\Proyectos\mongo-data
+  - Para usar el programa de node que tiene la función de administrar. En mi caso le he puesto el nombre node-crud-daniel
   
 
