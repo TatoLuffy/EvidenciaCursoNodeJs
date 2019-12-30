@@ -1,7 +1,7 @@
 # EvidenciaCursoNodeJs
 DocumentosEvidenciaCursoNodeJS
 
-Este repositorio es para mostrar las evidencias del Objetivo de desarrollo individual con nombre: "Curso Node JS".
+Este repositorio es para mostrar las evidencias del Objetivo de desarrollo individual con nombre: "Curso Node JS". Este curso se encuentra en la siguiente url: https://www.youtube.com/playlist?list=PLvimn1Ins-41lVr-SPWF1mdNTzog05TcA
 
 Prerequisitos
 1. Instalar nodejs
