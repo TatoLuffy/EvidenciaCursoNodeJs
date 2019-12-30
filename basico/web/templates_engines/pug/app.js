@@ -20,8 +20,9 @@ let personas = [
 
 app.set('view engine', 'pug');
 
+// Recorre todos los datos de personas y las muestra mediante la plantilla
 app.get('/', (req,res) => {
-    res.render('template', {titulo: 'pug', mensaje: 'DaniCode'});
+    res.render('template', {grantitulo: 'pug', mensaje: 'DaniCode', personas : personas});
 }); 
 
 app.listen(3000, () => {
