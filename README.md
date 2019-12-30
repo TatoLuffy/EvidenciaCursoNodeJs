@@ -65,6 +65,13 @@ Parte 18. express generator. Genera un esqueleto y comenzar a programar.
   - Modificar los index.js de las carpetas routes con lo que hemos hecho en las carpetas de pug y hbs de forma manual (archivo app.js"
   - Ejecutar mediante set DEBUG=pug-generator & npm start o set DEBUG=hbs-generator & npm start
   
+Parte 19. mongodb y robot 3t
+  - Se debe descargar e instalar mongodb y robo 3t.
+  - Ir a la carpeta de instalación de mongodb: C:\Program Files\MongoDB\Server\4.2\bin y ejecutar el siguiente comando:
+      mongodb.exe --dbpath C:\Proyectos\mongo-data
+  - Instalado y creada una colección con dos registros.
+  - Se puede acceder a mongodb ejecutando: C:\Program Files\MongoDB\Server\4.2\bin>mongo.exe
 
-
+Parte 20. Mongoose
+  - Este programa sirve para gestionar la base de datos no relacional mongodb. Ej. Como en java la herramienta de orm Hibernate.
   
