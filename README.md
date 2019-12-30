@@ -49,6 +49,10 @@ Parte 15. node-fetch.
   
 Parte 16. express.
   - Prerequesito: npm install express --save
+  - Instalar el postman. 
+  - Ejecutar en la carpeta web el siguiente comando: node app.js (Darle permiso al node en windows).
+  - Usar el postman para hacer una petición request con la web: http://localhost:3000/. 
+  - Devuelve el texto 'Hello World'
   
 
  
