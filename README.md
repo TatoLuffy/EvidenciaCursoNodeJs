@@ -71,4 +71,6 @@ Parte 19. mongodb y robot 3t
       mongodb.exe --dbpath C:\Proyectos\mongo-data
   - Instalado y creada una colección con dos registros.
 
+Parte 20. Mongoose
+  - Este programa sirve para gestionar la base de datos no relacional mongodb. Ej. Como en java la herramienta de orm Hibernate.
   
