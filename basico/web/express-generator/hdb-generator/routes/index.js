@@ -17,10 +17,6 @@ let personas = [
   }
 ]
 
-
-
-app.set('view engine', 'hbs');
-
 // Recorre todos los datos de personas y las muestra mediante la plantilla
 app.get('/', (req,res) => {
   res.render('template', {title: 'handlebars', mensaje: 'DaniCodeHdb', personas : personas});
