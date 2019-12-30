@@ -67,6 +67,7 @@ Parte 18. express generator. Genera un esqueleto y comenzar a programar.
   
 Parte 19. mongodb y robot 3t
   - Se debe descargar e instalar mongodb y robo 3t.
-  
+  - Ir a la carpeta de instalación de mongodb: C:\Program Files\MongoDB\Server\4.2\bin y ejecutar el siguiente comando:
+      mongodb.exe --dbpath C:\Proyectos\mongo-data
 
   
