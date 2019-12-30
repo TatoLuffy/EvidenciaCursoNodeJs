@@ -69,5 +69,6 @@ Parte 19. mongodb y robot 3t
   - Se debe descargar e instalar mongodb y robo 3t.
   - Ir a la carpeta de instalación de mongodb: C:\Program Files\MongoDB\Server\4.2\bin y ejecutar el siguiente comando:
       mongodb.exe --dbpath C:\Proyectos\mongo-data
+  - Instalado y creada una colección con dos registros.
 
   
