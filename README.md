@@ -83,6 +83,7 @@ Parte 21. Desplegar en heroku
   - Prerequisito: Crear cuenta en heroku de forma gratuita.
   - Prerequisito: Descargar y ejecutar el cliente de heroku. 
   - Prerequisito: Crear cuenta en mlab para poder gestionar la cuenta de mongodb en la nube.
+  - Han habido cambios respecto al curso y ahora no se puede usar mLab. Ahora se usa MongoDB.Atlas.
   
   
   
