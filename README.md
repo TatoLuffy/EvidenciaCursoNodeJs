@@ -39,6 +39,13 @@ Parte 12. Http request
 
 Parte 13. HTTPS API github
   - Prerequisito instalar dependencia de https mediante el comando: npm i https --save
-  - 
+
+Parte 14. Promesas
+  - Las promesas permite que el lenguaje sea mas legible. Esperara hasta que se devuelva la información necesaria. Se puede usar desde EcmaScript6. Sirve también para acciones asincronas.
+
+Parte 15. node-fetch. 
+  - Es un module que proporciona una interfaz para recuperar recursos. Ej. cache, request, response, operadores de servicios.
+  
+
  
 
