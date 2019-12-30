@@ -81,7 +81,8 @@ Parte 20. Mongoose
 Parte 21. Desplegar en heroku
   - Prerequisito: Ejecutado mongodb y la aplicaciòn de node-crud-daniel.
   - Prerequisito: Crear cuenta en heroku de forma gratuita.
-  - Prerequisito: Descargar y ejecutar el cliente de heroku.
+  - Prerequisito: Descargar y ejecutar el cliente de heroku. 
+  - Prerequisito: Crear cuenta en mlab para poder gestionar la cuenta de mongodb en la nube.
   
   
   
