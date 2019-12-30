@@ -63,7 +63,7 @@ Parte 18. express generator. Genera un esqueleto y comenzar a programar.
   - Crear los esqueletos de dos proyectos: express --view=pug pug-generator | express --view=hbs hbs-generator
   - Ejecutar npm install
   - Modificar los index.js de las carpetas routes con lo que hemos hecho en las carpetas de pug y hbs de forma manual (archivo app.js"
-  - Ejecutar mediante set DEBUG=pug-generator & npm start
+  - Ejecutar mediante set DEBUG=pug-generator & npm start o set DEBUG=hbs-generator & npm start
   
 
 
