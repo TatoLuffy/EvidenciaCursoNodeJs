@@ -65,6 +65,8 @@ Parte 18. express generator. Genera un esqueleto y comenzar a programar.
   - Modificar los index.js de las carpetas routes con lo que hemos hecho en las carpetas de pug y hbs de forma manual (archivo app.js"
   - Ejecutar mediante set DEBUG=pug-generator & npm start o set DEBUG=hbs-generator & npm start
   
-
+Parte 19. mongodb y robot 3t
+  - Se debe descargar e instalar mongodb y robo 3t.
+  
 
   
