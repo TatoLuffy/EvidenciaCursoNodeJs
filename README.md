@@ -78,4 +78,10 @@ Parte 20. Mongoose
   - El mongodb debe estar ejecutando mediante el comando: mongodb.exe --dbpath C:\Proyectos\mongo-data
   - Para usar el programa de node que tiene la función de administrar. En mi caso le he puesto el nombre node-crud-daniel
   
-
+Parte 21. Desplegar en heroku
+  - Prerequisito: Ejecutado mongodb y la aplicaciòn de node-crud-daniel.
+  - Prerequisito: Crear cuenta en heroku de forma gratuita.
+  - Prerequisito: Descargar y ejecutar el cliente de heroku.
+  
+  
+  
