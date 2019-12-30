@@ -1,7 +1,9 @@
 let prom = require('./promesa');
 
-prom.operacion(2,3).then((resultado) => {
+prom.operacion(3,3).then((resultado) => {
     console.log(resultado);
+}, (error)=>{
+    console.log(error);
 });
 
 /*
