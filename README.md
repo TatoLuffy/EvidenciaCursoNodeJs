@@ -79,11 +79,12 @@ Parte 20. Mongoose
   - Para usar el programa de node que tiene la función de administrar. En mi caso le he puesto el nombre node-crud-daniel
   
 Parte 21. Desplegar en heroku
-  - Prerequisito: Ejecutado mongodb y la aplicaciòn de node-crud-daniel.
+  - Prerequisito: Ejecutado mongodb y la aplicación de node-crud-daniel.
   - Prerequisito: Crear cuenta en heroku de forma gratuita.
   - Prerequisito: Descargar y ejecutar el cliente de heroku. 
   - Prerequisito: Crear cuenta en mlab para poder gestionar la cuenta de mongodb en la nube.
-  - Han habido cambios respecto al curso y ahora no se puede usar mLab. Ahora se usa MongoDB.Atlas.
+  - Han habido cambios respecto al curso y ahora no se puede usar mLab. Ahora se usa MongoDB.Atlas.  
+        https://cloud.mongodb.com/v2/5e0984e8ff7a252401d6fe8a#clusters
   
   
   
