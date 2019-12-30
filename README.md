@@ -54,6 +54,8 @@ Parte 16. express.
   - Usar el postman para hacer una petición request con la web: http://localhost:3000/. 
   - Devuelve el texto 'Hello World'
   
-
- 
+Parte 17. pug & hbs.
+  - Prerequisito: npm install pug --save
+  - Prerequisito hbs: npm install hbs --save
+  
 
