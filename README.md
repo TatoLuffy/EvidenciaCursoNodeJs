@@ -58,4 +58,6 @@ Parte 17. pug & hbs.
   - Prerequisito: npm install pug --save
   - Prerequisito hbs: npm install hbs --save
   
-
+Parte 18. express generator. Genera un esqueleto y comenzar a programar.
+  - Prerequisito: npm install express generator -g 
+  
