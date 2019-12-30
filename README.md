@@ -47,6 +47,9 @@ Parte 15. node-fetch.
   - Es un module que proporciona una interfaz para recuperar recursos. Ej. cache, request, response, operadores de servicios.
   - Prerequisito instalar modulo node-fetch mediante el comando:  npm install node-fetch --save
   
+Parte 16. express.
+  - Prerequesito: npm install express --save
+  
 
  
 
