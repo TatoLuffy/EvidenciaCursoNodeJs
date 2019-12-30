@@ -26,8 +26,9 @@ app.use((req, res, next) => {
 //app.use(logger);
 
 // Ejemplo 
-app.get('/', function (req, res) {
-    res.send('Hello World!');
+app.get('/:user', function (req, res) {
+    let usuario = req.params.user;
+    res.send(`Bienvenido ${usuario}`);
 });
 
 app.put('/', function (req, res) {
